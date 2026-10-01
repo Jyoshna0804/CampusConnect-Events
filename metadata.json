@@ -1,0 +1,6 @@
+{
+  "name": "CampusConnect Events",
+  "description": "Modern, colorful, responsive college event dashboard for discovering, registering, and celebrating campus events.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
